@@ -1,0 +1,2 @@
+include ':app', ':validationlibrary'
+rootProject.name='FormValidationLibrary'
